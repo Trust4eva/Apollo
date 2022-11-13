@@ -20,7 +20,7 @@
     "react-dom": "^15.6.1",
     "style-loader": "^0.18.2",
     "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "socket.io-client": "^2.3.0"
